@@ -1,1 +1,0 @@
-java -Xms1M -Xmx2G -jar lobby.jar nogui
