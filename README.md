@@ -22,6 +22,10 @@ Features
 
 You can also find my written guidebooks for player in indonesian in this repository
 
+### Important Notes
+AuthMe plugin uses MariaDB as remote database, please change it and link it to your own database.  
+Other plugin like FastLogin is configured to use local database, you can change it though if you want.  
+
 ## License
 
 This project is licensed under the **MIT License**.  
