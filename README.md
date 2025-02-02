@@ -24,7 +24,8 @@ You can also find my written guidebooks for player in indonesian in this reposit
 
 ### Important Notes
 AuthMe plugin uses MariaDB as remote database, please change it and link it to your own database.  
-Other plugin like FastLogin is configured to use local database, you can change it though if you want.  
+Other plugin like FastLogin is configured to use local database, like SQLite or H2.
+Since it works fine, you don't have to change it, but feel free to do that if you want to.  
 
 ## License
 
