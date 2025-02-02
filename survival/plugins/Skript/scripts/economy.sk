@@ -1,0 +1,32 @@
+command /buy <text> <number>:
+    description: Buy diamonds or emeralds
+    usage: /buy [diamond/emerald] <amount>
+    trigger:
+        # If no arguments were given
+        if arg-1 is not set:
+            send "Usage /buy [emerald/diamond] <amount>" to player
+            send "Diamond costs $100 each, Emerald costs $10 each" to player
+        # If arg2 is not an integer
+        else if arg-2 is not a number:
+            send "Invalid amount!" to player
+        # If arg1 is diamond
+        else if arg-1 is "diamond":
+            set {amount} to argument 2
+            if player's balance is greater than (100 * argument 2):
+                remove (100 * argument 2) from player's balance
+                give {amount} of diamond to player
+                send "You bought %argument 2% diamond(s) for $%argument 2%00!" to player
+            else:
+                send "You do not have enough money to buy %argument 2% diamond(s)." to player
+        # If arg1 is emerald
+        else if arg-1 is "emerald":
+            set {amount} to argument 2
+            if player's balance >= (10 * argument 2):
+                remove (10 * argument 2) from player's balance
+                give {amount} of emerald to player
+                send "You bought %argument 2% emerald(s) for $%argument 2%0!" to player
+            else:
+                send "You do not have enough money to buy %argument 2% emerald(s)." to player
+        # If arg1 is anything else
+        else:
+            send "You can only buy Diamonds or Emeralds!" to player

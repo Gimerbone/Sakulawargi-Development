@@ -1,0 +1,116 @@
+TabTitle:
+  change-interval: 100
+  texts:
+    - '&6&lS&e&lAKULAWARGI SMP'
+    - '&e&lS&6&lA&e&lKULAWARGI SMP'
+    - '&e&lSA&6&lK&e&lULAWARGI SMP'
+    - '&e&lSAK&6&lU&e&lLAWARGI SMP'
+    - '&e&lSAKU&6&lL&e&lAWARGI SMP'
+    - '&e&lSAKUL&6&lA&e&lWARGI SMP'
+    - '&e&lSAKULA&6&lW&e&lARGI SMP'
+    - '&e&lSAKULAW&6&lA&e&lRGI SMP'
+    - '&e&lSAKULAWA&6&lR&e&lGI SMP'
+    - '&e&lSAKULAWAR&6&lG&e&lI SMP'
+    - '&e&lSAKULAWARG&6&lI&e&l SMP'
+    - '&e&lSAKULAWARGI&6&l &e&lSMP'
+    - '&e&lSAKULAWARGI &6&lS&e&lMP'
+    - '&e&lSAKULAWARGI S&6&lM&e&lP'
+    - '&e&lSAKULAWARGI SM&6&lP'
+    - '&e&lSAKULAWARGI SMP'
+    - '&e&lSAKULAWARGI SM&6&lP'
+    - '&e&lSAKULAWARGI S&6&lM&e&lP'
+    - '&e&lSAKULAWARGI &6&lS&e&lMP'
+    - '&e&lSAKULAWARGI&6&l &e&lSMP'
+    - '&e&lSAKULAWARG&6&lI&e&l SMP'
+    - '&e&lSAKULAWAR&6&lG&e&lI SMP'
+    - '&e&lSAKULAWA&6&lR&e&lGI SMP'
+    - '&e&lSAKULAW&6&lA&e&lRGI SMP'
+    - '&e&lSAKULA&6&lW&e&lARGI SMP'
+    - '&e&lSAKUL&6&lA&e&lWARGI SMP'
+    - '&e&lSAKU&6&lL&e&lAWARGI SMP'
+    - '&e&lSAK&6&lU&e&lLAWARGI SMP'
+    - '&e&lSA&6&lK&e&lULAWARGI SMP'
+    - '&e&lS&6&lA&e&lKULAWARGI SMP'
+    - '&6&lS&e&lAKULAWARGI SMP'
+    - '&6&lS&e&lAKULAWARGI SMP'
+    - '&6&lS&e&lAKULAWARGI SMP'
+    - '&6&lS&e&lAKULAWARGI SMP'
+    - '&6&lS&e&lAKULAWARGI SMP'
+ServerName:
+  change-interval: 300
+  texts:
+  - '&c&lServerName'
+  - '&c&n&lServerName'
+  - '&b&lServerName'
+  - '&b&l&nServerName'
+  - '&e&lServerName'
+  - '&e&n&lServerName'
+web:
+  change-interval: 200
+  texts:
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&6w&eww.domain.com'
+  - '&ew&6w&ew.domain.com'
+  - '&eww&6w&e.domain.com'
+  - '&ewww&6.&edomain.com'
+  - '&ewww.&6d&eomain.com'
+  - '&ewww.d&6o&emain.com'
+  - '&ewww.do&6m&eain.com'
+  - '&ewww.dom&6a&ein.com'
+  - '&ewww.doma&6i&en.com'
+  - '&ewww.domai&6n&e.com'
+  - '&ewww.domain&6.&ecom'
+  - '&ewww.domain.&6c&eom'
+  - '&ewww.domain.c&6o&em'
+  - '&ewww.domain.co&6m'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+  - '&ewww.domain.com'
+vote:
+  change-interval: 1000
+  texts:
+  - '&avote.domain.com'
+  - '&a&nvote.domain.com'
+  - '&5vote.domain.com'
+  - '&5&nvote.domain.com'
+Welcome:
+  change-interval: 400
+  texts:
+  - '&7&lW_'
+  - '&7&lW_'
+  - '&7&lWe_'
+  - '&7&lWel_'
+  - '&7&lWelc_'
+  - '&7&lWelco_'
+  - '&7&lWelcom_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcom_'
+  - '&7&lWelco_'
+  - '&7&lWelc_'
+  - '&7&lWel_'
+  - '&7&lWe_'
+  - '&7&lW_'
+  - '&7&lW_'
+time:
+  change-interval: 3000
+  texts:
+    - '&7Time &b%time%'
+    - '&7Date &b%date%'
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW

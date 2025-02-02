@@ -1,0 +1,9 @@
+# === Skript's variable storage ===
+# Please do not modify this file manually!
+#
+# version: 2.10.0
+
+amount, long, 0000000000000001
+cancelsleep::e2654b47-3c3d-4659-ba07-850c22d4ba41, boolean, 00
+cancelsleep::f5dacfe1-ae46-3552-9cc2-83f9ff5a3381, boolean, 00
+

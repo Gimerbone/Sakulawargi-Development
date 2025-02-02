@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.100.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737455064693
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737458927580
+  login: 1737454931224
+money: '0'
+last-account-name: ElPunci
+lastlocation:
+  world: cc4baed0-8cd5-4135-b63f-35e496095946
+  world-name: world
+  x: -2766.8278627132063
+  y: 67.0
+  z: 424.69999998807907
+  yaw: -63.83197021484375
+  pitch: -1.9794100522994995
+logoutlocation:
+  world: cc4baed0-8cd5-4135-b63f-35e496095946
+  world-name: world
+  x: -2774.566051825957
+  y: 64.5
+  z: 423.08820075103176
+  yaw: -156.55218505859375
+  pitch: 14.299810409545898
+homes:
+  home:
+    world: cc4baed0-8cd5-4135-b63f-35e496095946
+    world-name: world
+    x: -2777.6780018227523
+    y: 63.0
+    z: 419.67420341910577
+    yaw: -80.3681640625
+    pitch: 11.532981872558594

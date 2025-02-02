@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.100.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737790895157
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737791077115
+  login: 1737790053341
+money: '0'
+last-account-name: BaleeXjaa
+lastlocation:
+  world: cc4baed0-8cd5-4135-b63f-35e496095946
+  world-name: world
+  x: -3071.705531044783
+  y: 70.0
+  z: 548.468029513152
+  yaw: 50.3984375
+  pitch: 89.01791381835938
+logoutlocation:
+  world: cc4baed0-8cd5-4135-b63f-35e496095946
+  world-name: world
+  x: -3080.300000011921
+  y: 63.0
+  z: 575.5877864489986
+  yaw: 61.711090087890625
+  pitch: 13.77326774597168
+homes:
+  home:
+    world: cc4baed0-8cd5-4135-b63f-35e496095946
+    world-name: world
+    x: -3082.5764983627014
+    y: 63.0
+    z: 601.7321737451161
+    yaw: -165.67718505859375
+    pitch: 10.68740177154541

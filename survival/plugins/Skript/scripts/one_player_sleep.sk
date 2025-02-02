@@ -1,0 +1,45 @@
+# One player sleep Skript
+# Developed by WatchBOT @ SpigotMC.org
+# You are permitted to change all MESSAGES including COLOR CODES.
+# You may NOT change anything under the "options:" tab.
+# You may NOT give out this skript as your own!
+# You may NOT directly or indirectly generate profit from this skript!
+# You MAY generate donation revenue with this skript installed, UNLESS it is used to generate said profit!
+
+options:
+	author: WatchBOT
+	version: 1.0
+	website: https://www.spigotmc.org/members/anty.36626/
+	
+on bed enter:
+        set {cancelSleep::%player%} to false
+        broadcast "&b%player% is now sleeping!"
+        
+        loop 16 times:
+                wait 5 ticks
+                if the player is not sleeping:
+                        set {cancelSleep::%player%} to true
+                        stop loop
+        
+        if {cancelSleep::%player%} = false:
+                set time to 07:00
+                wait 4 ticks
+                broadcast "&bGood Morning! Rise and shine!"
+                wait 10 ticks
+                broadcast "&7&o[Server: Saving world...]"
+                wait 20 ticks
+                make console execute command "/save-all"
+        else:
+                broadcast "&b%player%'s sleep got interrupted."
+
+command /oneplayersleep:
+        trigger:
+                send "&e&lOnePlayerSleep Skript"
+                send "&eDeveloped by:"
+                send "&6- WatchBOT"
+                send ""
+                send "&eModified by:"
+                send "&6- Gimerbone"
+                send ""
+                send "&eAuthor website:"
+                send "&6- https://www.spigotmc.org/members/anty.36626/"

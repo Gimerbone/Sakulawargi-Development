@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.100.84
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737875033545
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738148607534
+  login: 1738148107793
+money: '0.00'
+last-account-name: Gimerbone
+logoutlocation:
+  world: cc4baed0-8cd5-4135-b63f-35e496095946
+  world-name: world
+  x: 1007.800336474062
+  y: 112.0
+  z: -2392.6485821723186
+  yaw: -67.49996948242188
+  pitch: 21.899991989135742
+lastlocation:
+  world: 947c5ab3-6d1f-4515-a11f-83b1eba2f0ad
+  world-name: world_the_end
+  x: -869.0779064636446
+  y: 66.0
+  z: -915.5511395591298
+  yaw: 42.22265625
+  pitch: 8.549822807312012
+homes:
+  home:
+    world: cc4baed0-8cd5-4135-b63f-35e496095946
+    world-name: world
+    x: 1007.0794670977921
+    y: 112.0
+    z: -2392.564746701368
+    yaw: -30.000354766845703
+    pitch: 47.849613189697266

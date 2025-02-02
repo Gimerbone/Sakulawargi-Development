@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.100.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737552660022
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737635011640
+  login: 1737634958383
+money: '0'
+last-account-name: EiRanGerZ
+lastlocation:
+  world: 947c5ab3-6d1f-4515-a11f-83b1eba2f0ad
+  world-name: world_the_end
+  x: 543.9120652565056
+  y: 57.0
+  z: -2283.3837679594
+  yaw: 146.79547119140625
+  pitch: 86.10001373291016
+logoutlocation:
+  world: cc4baed0-8cd5-4135-b63f-35e496095946
+  world-name: world
+  x: -3001.0124794120425
+  y: 69.0
+  z: 390.02205977932783
+  yaw: -106.95523071289062
+  pitch: 21.300138473510742
+homes:
+  home:
+    world: cc4baed0-8cd5-4135-b63f-35e496095946
+    world-name: world
+    x: -2999.358554947067
+    y: 69.0
+    z: 385.75158015894993
+    yaw: -27.908403396606445
+    pitch: 19.20012855529785

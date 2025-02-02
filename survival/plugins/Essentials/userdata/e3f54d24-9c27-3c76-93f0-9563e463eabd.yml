@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.100.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737642480320
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737642635664
+  login: 1737641449523
+money: '0'
+last-account-name: yaminousagi
+lastlocation:
+  world: cc4baed0-8cd5-4135-b63f-35e496095946
+  world-name: world
+  x: -1113.5
+  y: 11.0
+  z: 236.5
+  yaw: 17.6270751953125
+  pitch: 14.250264167785645
+logoutlocation:
+  world: cc4baed0-8cd5-4135-b63f-35e496095946
+  world-name: world
+  x: 1033.3531292486389
+  y: 118.0
+  z: -2287.3503742833896
+  yaw: -86.234130859375
+  pitch: 9.900092124938965
+homes:
+  home:
+    world: cc4baed0-8cd5-4135-b63f-35e496095946
+    world-name: world
+    x: 1008.531841275167
+    y: 112.0
+    z: -2391.951178422185
+    yaw: -159.40255737304688
+    pitch: 31.90088653564453
